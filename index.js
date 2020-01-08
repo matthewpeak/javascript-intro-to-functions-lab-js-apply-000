@@ -1,3 +1,3 @@
-let Function shout(str) {
+Function shout(str) {
   return string.toUppercase()
 };
