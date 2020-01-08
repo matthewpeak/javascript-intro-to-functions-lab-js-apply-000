@@ -3,5 +3,5 @@ function shout(str) {
 }
 
 function whisper(str){
-  return str.toLowerCase
+  return str.toLowerCase()
 }
