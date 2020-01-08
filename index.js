@@ -10,4 +10,6 @@ function logWhisper(str){
   return console.log(whisper(str))
 }
 
-function
+function sayHiToGrandma(str){
+  
+}
