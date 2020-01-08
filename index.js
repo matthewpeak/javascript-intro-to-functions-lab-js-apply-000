@@ -11,5 +11,7 @@ function logWhisper(str){
 }
 
 function sayHiToGrandma(str){
-  
+  if(str == shout(str)){
+    return 
+  }
 }
